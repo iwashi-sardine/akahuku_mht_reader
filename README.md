@@ -3,7 +3,9 @@
 現在プロトタイプ版を公開しております。
 
 # インストール方法
-TBA
+[リリースページ](https://github.com/iwashi-sardine/akahuku_mht_reader/releases)から akahuku_mht_reader-{バージョン番号}-fx.xpi  
+をクリックしてインストールできます。
+
 
 # 使い方の説明
 1. 右クリックして「赤福mhtリーダーを起動」を選択してください
