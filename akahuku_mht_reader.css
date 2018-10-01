@@ -1,0 +1,11 @@
+.mht_reader {
+  border-style: dashed;
+  border-width: 5px;
+  border-color: gray;
+  border-radius: 3px;
+  padding: 50px;
+  text-align: center;
+  color: gray;
+  font-weight: 200;
+  font-size: 30px;
+}

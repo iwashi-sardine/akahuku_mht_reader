@@ -1,0 +1,22 @@
+{
+    "manifest_version":2,
+    "name":"赤福mhtリーダー",
+
+    "version":"0.0.1",
+
+    "description":"赤福で保存したmhtファイル用のリーダー",
+
+    "applications": {
+      "gecko": {
+        "update_url": "https://raw.githubusercontent.com/iwashi-sardine/akahuku_mht_reader/master/updates.json"
+      }
+    },
+
+    "background": {
+      "scripts": ["./background.js"]
+    },
+
+    "permissions": [
+      "menus"
+    ]
+}
